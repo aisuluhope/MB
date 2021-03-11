@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+
+    <string-array name="group">
+        <item>IT</item>
+        <item>IT</item>
+        <item>IT</item>
+        <item>LNG</item>
+        <item>IT</item>
+        <item>IT</item>
+        <item>BA</item>
+        <item>IT</item>
+        <item>IR</item>
+        <item>BA</item>
+        <item>LNG</item>
+        <item>BA</item>
+        <item>IT</item>
+        <item>BA</item>
+        <item>LAW</item>
+        <item>Art</item>
+        <item>IR</item>
+        <item>BA</item>
+        <item>LAW</item>
+        <item>IT</item>
+        <item>BA</item>
+    </string-array>
+
+    <string-array name="first_name">
+        <item>Aisulu</item>
+        <item>Ahmad</item>
+        <item>Avai</item>
+        <item>Jimin</item>
+        <item>Melis</item>
+        <item>Danil</item>
+        <item>Jamal</item>
+        <item>Pavel</item>
+        <item>Aidai</item>
+        <item>Oleg</item>
+        <item>Igor</item>
+        <item>Kirill</item>
+        <item>Marat</item>
+        <item>John</item>
+        <item>Steve</item>
+        <item>Alia</item>
+        <item>Asia</item>
+        <item>Adam</item>
+        <item>Vincent</item>
+        <item>Rebecca</item>
+        <item>Mark</item>
+    </string-array>
+
+    <string-array name="last_name">
+        <item>Abdraimova</item>
+        <item>Tsakaev</item>
+        <item>Aidarov</item>
+        <item>Park</item>
+        <item>Osmonov</item>
+        <item>Popov</item>
+        <item>Amanturova</item>
+        <item>Hvan</item>
+        <item>Park</item>
+        <item>Shin</item>Mka
+        <item>Ivanov</item>
+        <item>Makrov</item>
+        <item>Tuleev</item>
+        <item>Park</item>
+        <item>Scott</item>
+        <item>Scott</item>
+        <item>Scott</item>
+        <item>Scott</item>
+        <item>Scott</item>
+        <item>Scott</item>
+        <item>Magarrell</item>
+    </string-array>
+
+    <string-array name="title">
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>KNU</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>Pavel</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>KGMA</item>
+        <item>BIOLA</item>
+        <item>AUCA</item>
+        <item>UCA</item>
+        <item>UCA</item>
+        <item>AUCA</item>
+        <item>BIOLA</item>
+        <item>UNN</item>
+    </string-array>
+</resources>
